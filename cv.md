@@ -1,1 +1,22 @@
-here will be my resume
+# Tsimur Zhylinski
+
+---
+
+## **Mobile phone: +375(29)674-64-94** **email: <Zhilinskiyt@gmail.com>**
+
+> My goal is become Senior Front-end Developer. I’ve got a chance to have a new profession in my life, its means that a lot of people which alredy achieved success help’s me to grow up like front-end developer. I cant lose this chance. That’s why im must responsible in my learning.
+
+---
+
+| Skills           | Education                                                                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| HTML Basic       | Specialized in organization and transportation of goods and managment of road city transport. "Lida College, Yanka Kupala State Universty". |
+| CSS Basic        | Nowadays im study at 4 course in Academy of the Ministry of Internal Affairs of the Republic of Belarus at speciality lawyer.               |
+| JavaScript Basic |
+
+- ### Code examples:
+  Doesn't exist;
+- ### Experience:
+  Newbie;
+- ### English:
+  Elementary;
