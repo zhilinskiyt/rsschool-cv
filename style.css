@@ -70,5 +70,6 @@ ol {
     background-color: #eafa07;
     border: 10px solid #790000;
     text-shadow: 10px 10px 10px #000701;
+    text-transform: uppercase;
   }
 }
