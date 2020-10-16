@@ -1,6 +1,74 @@
-.allmytext {
-  color: black;
+.wrapper {
   margin: auto;
-  width: 800px;
-  text-align: center;
+  max-width: 1024px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: normal;
+  color: black;
+  background-color: #fcfdfd;
+  border: 4px solid #eaeff0;
+  border-radius: 25px;
+}
+
+h4 {
+  color: #b00c0c;
+  font-size: 26px;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+p {
+  margin: 0px;
+}
+
+h4 {
+  margin: 3px;
+}
+
+ul {
+  margin: 2px;
+}
+
+ol {
+  margin: 3px;
+}
+
+.photo {
+  max-width: 100%;
+  height: 200px;
+}
+
+.phototext {
+  display: flex;
+  align-content: space-between;
+}
+
+.objective {
+  background-color: #b30606;
+}
+
+@media screen and (max-width: 500px) {
+  .photo {
+    height: 150px;
+  }
+
+  .wrapper {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: #04fcfc;
+    border: 20px solid #000708;
+    text-shadow: 10px 10px 10px #b30606;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .photo {
+    height: 100px;
+  }
+
+  .wrapper {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eafa07;
+    border: 10px solid #790000;
+    text-shadow: 10px 10px 10px #000701;
+  }
 }
