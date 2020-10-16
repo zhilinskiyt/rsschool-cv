@@ -51,10 +51,24 @@ ol {
   .photo {
     height: 150px;
   }
+
+  .wrapper {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background-color: #04fcfc;
+    border: 20px solid #000708;
+    text-shadow: 10px 10px 10px #b30606;
+  }
 }
 
 @media screen and (max-width: 375px) {
   .photo {
     height: 100px;
+  }
+
+  .wrapper {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eafa07;
+    border: 10px solid #790000;
+    text-shadow: 10px 10px 10px #000701;
   }
 }
