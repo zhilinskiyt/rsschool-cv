@@ -46,3 +46,15 @@ ol {
 .objective {
   background-color: #b30606;
 }
+
+@media screen and (max-width: 500px) {
+  .photo {
+    height: 150px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .photo {
+    height: 100px;
+  }
+}
